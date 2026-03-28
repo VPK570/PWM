@@ -33,7 +33,7 @@ initial begin
     rst_n = 1;
 
     // 25% duty cycle
-    dutyCycle = 8'd160;     // 64/256 = 25%
+    dutyCycle = 8'd64;     // 64/256 = 25%
     #9000;
 
 
