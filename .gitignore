@@ -17,7 +17,6 @@ Thumbs.db
 *~
 
 # Generated reports
-report.tex
 extracted_sentences.md
 cmd.md
 
@@ -26,10 +25,6 @@ skills-lock.json
 .agents/
 .claude/
 
-# Images (waveforms/diagrams)
-*.png
-*.jpg
-*.jpeg
 
 # Large generated files
 Claude-*.md
