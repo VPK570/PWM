@@ -1,0 +1,35 @@
+# Simulation artifacts
+*.vcd
+*.vvp
+dump*.vcd
+dump*.vvp
+sim_*.vvp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated reports
+report.tex
+extracted_sentences.md
+cmd.md
+
+# Skills/config
+skills-lock.json
+.agents/
+.claude/
+
+# Images (waveforms/diagrams)
+*.png
+*.jpg
+*.jpeg
+
+# Large generated files
+Claude-*.md
